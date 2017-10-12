@@ -23,6 +23,7 @@ h1, p {
 
 .btn:active {
   transform: translate(0, .2em);
+  top: 1em;
 }
 
 .btn-ghost {
