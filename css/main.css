@@ -1,0 +1,33 @@
+html {
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+h1, p {
+  color: #fff;
+}
+
+.btn {
+  background-color: transparent;
+  color: #b4fff4;
+  border-color: #b4fff4;
+  border-radius: 7px;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #90ccc3;
+  color: #b4fff4;
+  border-color: #b4fff4;
+}
+
+.btn:active {
+  transform: translate(0, .2em);
+}
+
+.banner {
+  background-image: url("../images/starfield.png")
+}
+
+.banner-content {
+  padding-top: 16em;
+}
